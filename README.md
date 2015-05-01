@@ -1,6 +1,6 @@
-# node-js-sample
+# shiny-node-boilerplate
 
-A barebones Node.js app using [Express 4](http://expressjs.com/).
+A Node.js app boilerplate using [Express 4](http://expressjs.com/).
 
 ## Running Locally
 
@@ -13,4 +13,4 @@ npm start
 
 ## Documentation
 
-Comming soon...
+...
